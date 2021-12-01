@@ -1,0 +1,1 @@
+This folder is setup to contain all my work in HTML, CSS, Javascript, and pretty much anything web development based.
